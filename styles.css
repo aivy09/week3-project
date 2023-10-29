@@ -50,6 +50,9 @@ img {
     .text-start{
         text-align: center!important;
     }
+    body{
+        text-align:center;
+    }
 }
 
 
